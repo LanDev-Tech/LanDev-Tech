@@ -1,5 +1,6 @@
 # Hi, I am Andres Laureano 👋🏼
 ### Freelance Frontend Developer
+![Grupo 14](https://user-images.githubusercontent.com/59510054/106190670-fa1ae080-6177-11eb-80a4-1bd94c69bcb8.png)
 
 <!--
 **LanDev-Tech/LanDev-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
